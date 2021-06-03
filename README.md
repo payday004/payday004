@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @payday004 computer science major at VIRGINIA TECH 
-- 👀 I’m interested in Machine Learning, front end dev and more 
-- 🌱 I’m currently learning C, linux and more
+- 🌱 I’m currently learning C, linux, python, data structure/algorithms and more
 - 📫 Reach me at peytond@vt.edu
 
 <!---
